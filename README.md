@@ -1,8 +1,3 @@
-# data-engineering-roadmap
-Got it, let’s add more emojis and make it even more lively! 🎉 Here's the updated version with even more emojis:
-
----
-
 # Data Engineering & Cloud Computing Roadmap 🚀🌱
 
 Hey there! Welcome to my **Data Engineering** & **Cloud Computing Roadmap**! 🌱 This site is your go-to guide for all things **Data Engineering** and **Cloud Computing**. It’s a super fun and interactive way to learn, with resources to help you out at each stage, and a simple way to track your progress. 📈
@@ -78,6 +73,3 @@ Got ideas? 💡 Want to help make this project even cooler? You’re always welc
 
 This project is licensed under the **MIT License** – use it, modify it, have fun with it! 🎉 See the [LICENSE](LICENSE) file for details.
 
----
-
-There you go! This version is full of fun emojis and a more laid-back tone. If there’s anything else you want to add or adjust, let me know! 😊🎉
